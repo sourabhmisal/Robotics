@@ -23,8 +23,6 @@ bool handle_drive_request(ball_chaser::DriveToTarget::Request& req, ball_chaser:
 
 	motor_command_publisher.publish(motor_command);
 
-	Duration(3).sleep();
-
 	res.msg_feedback = "Motor commands set - linear_x: " + to_string(motor_command.linear.x) + " , angular_z : " + to_string(motor_command.angular.z) ;
 	ROS_INFO_STREAM(res.msg_feedback);
 

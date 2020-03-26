@@ -11,10 +11,10 @@
   <arg name="yaw" default="0"/>
 
   <!-- Launch other relevant files-->
-  <include file="$(find my_robot)/launch/robot_description.launch"/>
+  <include file="$(find my_robot_diff_drive)/launch/robot_description.launch"/>
 
   <!-- World File -->
-  <arg name="world_file" default="$(find my_robot)/worlds/3_world.world"/>
+  <arg name="world_file" default="$(find my_robot_diff_drive)/worlds/6_world.world"/>
 
   <!-- Launch Gazebo World -->
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
