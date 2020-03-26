@@ -4,3 +4,6 @@
 [submodule "Go_Chase_It_1"]
 	path = Go_Chase_It_1
 	url = https://github.com/sourabhmisal/Go_Chase_It_1.git
+[submodule "Go_Chase_It_2"]
+	path = Go_Chase_It_2
+	url = https://github.com/sourabhmisal/Go_Chase_It_2.git
