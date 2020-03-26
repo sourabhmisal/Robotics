@@ -1,3 +1,6 @@
 [submodule "Build_My_World"]
 	path = Build_My_World
 	url = https://github.com/sourabhmisal/Build_My_World.git
+[submodule "Go_Chase_It_1"]
+	path = Go_Chase_It_1
+	url = https://github.com/sourabhmisal/Go_Chase_It_1.git
