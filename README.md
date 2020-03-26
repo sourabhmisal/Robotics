@@ -1,8 +1,10 @@
 # Robotics
 This is the start of my journey into the world of Robotics..
 
-Currently I have done two projects while learning from Udacity's Robotics Software Engineer Nanodegree online course.
+Currently I have done three projects while learning from Udacity's Robotics Software Engineer Nanodegree online course.
 
-### Project_1 : Build My World
+### Build_My_World
 
-### Project_2 : Go chase it!
+### Go_Chase_It_1
+
+### Go_Chase_It_2
